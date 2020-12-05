@@ -1,9 +1,7 @@
-```
 layout: post
-title:  "chenqj"
+title:  "Markdown练习"
 date:   2020-12-05 22:33:10 +0800
 categories: chenqj update
-```
 
 
 
